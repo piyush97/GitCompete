@@ -4,6 +4,10 @@ GitCompete compares two **public** GitHub profiles with an intentionally visible
 
 ![GitCompete profile comparison screen](./public/preview.png)
 
+## Live site
+
+After the Pages workflow deploys `master`: <https://piyush97.github.io/GitCompete/>
+
 ## What it does
 
 - Compares followers, public repositories, total repository stars, and common repository languages.
