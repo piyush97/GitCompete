@@ -1,12 +1,15 @@
 # GitCompete
 
+[![Verify](https://github.com/piyush97/GitCompete/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/piyush97/GitCompete/actions/workflows/ci.yml)
+[![Deploy](https://github.com/piyush97/GitCompete/actions/workflows/deploy-pages.yml/badge.svg?branch=master)](https://github.com/piyush97/GitCompete/actions/workflows/deploy-pages.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](package.json)
+
+**Live:** [piyush97.github.io/GitCompete](https://piyush97.github.io/GitCompete/)
+
 GitCompete compares two **public** GitHub profiles with an intentionally visible scoring formula. It is a small frontend showcase built around a real external API, loading/error states, responsive layout, accessible controls, theme persistence, and shareable comparison URLs.
 
 ![GitCompete profile comparison screen](./public/preview.png)
-
-## Live site
-
-After the Pages workflow deploys `master`: <https://piyush97.github.io/GitCompete/>
 
 ## What it does
 
